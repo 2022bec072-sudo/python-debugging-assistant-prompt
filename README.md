@@ -8,4 +8,4 @@ How to use:
 1. Open `prompt.md` and use it as the prompt for the AI assistant.
 2. If you submitted this repo to the screening email, attach the repo URL.
 
-Author: Shivam Umale
+Author:Shivam Umale
